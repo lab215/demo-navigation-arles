@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/arlesrencontres/!svn/ver/150/trunk/arles2012/Controllers
+END
+LieuxViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/arlesrencontres/!svn/ver/136/trunk/arles2012/Controllers/LieuxViewController.m
+END
+DetailLieuxViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/arlesrencontres/!svn/ver/149/trunk/arles2012/Controllers/DetailLieuxViewController.h
+END
+AgendaPagedViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/arlesrencontres/!svn/ver/139/trunk/arles2012/Controllers/AgendaPagedViewController.xib
+END
+DetailArtistesViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/arlesrencontres/!svn/ver/142/trunk/arles2012/Controllers/DetailArtistesViewController.xib
+END
+DetailLieuxViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/arlesrencontres/!svn/ver/146/trunk/arles2012/Controllers/DetailLieuxViewController.m
+END
+AgendaPagedViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/arlesrencontres/!svn/ver/147/trunk/arles2012/Controllers/AgendaPagedViewController.h
+END
+GeolocParkingAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/arlesrencontres/!svn/ver/78/trunk/arles2012/Controllers/GeolocParkingAnnotation.h
+END
+AgendaPagedViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/arlesrencontres/!svn/ver/147/trunk/arles2012/Controllers/AgendaPagedViewController.m
+END
+GeolocParkingAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/arlesrencontres/!svn/ver/78/trunk/arles2012/Controllers/GeolocParkingAnnotation.m
+END
+ExposViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/arlesrencontres/!svn/ver/137/trunk/arles2012/Controllers/ExposViewController.xib
+END
+ArtistesViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/arlesrencontres/!svn/ver/136/trunk/arles2012/Controllers/ArtistesViewController.xib
+END
+DetailInfosViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/arlesrencontres/!svn/ver/148/trunk/arles2012/Controllers/DetailInfosViewController.xib
+END
+FavoritesViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/arlesrencontres/!svn/ver/115/trunk/arles2012/Controllers/FavoritesViewController.xib
+END
+ArtistesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/arlesrencontres/!svn/ver/136/trunk/arles2012/Controllers/ArtistesViewController.h
+END
+ExposViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/arlesrencontres/!svn/ver/88/trunk/arles2012/Controllers/ExposViewController.h
+END
+TestDetailController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/arlesrencontres/!svn/ver/53/trunk/arles2012/Controllers/TestDetailController.xib
+END
+FavoritesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/arlesrencontres/!svn/ver/54/trunk/arles2012/Controllers/FavoritesViewController.h
+END
+ArtistesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/arlesrencontres/!svn/ver/136/trunk/arles2012/Controllers/ArtistesViewController.m
+END
+ExposViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/arlesrencontres/!svn/ver/126/trunk/arles2012/Controllers/ExposViewController.m
+END
+GeolocAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/arlesrencontres/!svn/ver/149/trunk/arles2012/Controllers/GeolocAnnotation.h
+END
+BilletViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/arlesrencontres/!svn/ver/69/trunk/arles2012/Controllers/BilletViewController.xib
+END
+FavoritesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/arlesrencontres/!svn/ver/150/trunk/arles2012/Controllers/FavoritesViewController.m
+END
+GeolocAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/arlesrencontres/!svn/ver/149/trunk/arles2012/Controllers/GeolocAnnotation.m
+END
+AgendaViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/arlesrencontres/!svn/ver/116/trunk/arles2012/Controllers/AgendaViewController.xib
+END
+TestController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/arlesrencontres/!svn/ver/46/trunk/arles2012/Controllers/TestController.xib
+END
+DetailExposViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/arlesrencontres/!svn/ver/136/trunk/arles2012/Controllers/DetailExposViewController.h
+END
+TestController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/arlesrencontres/!svn/ver/46/trunk/arles2012/Controllers/TestController.h
+END
+DetailExposViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/arlesrencontres/!svn/ver/146/trunk/arles2012/Controllers/DetailExposViewController.m
+END
+TestController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/arlesrencontres/!svn/ver/53/trunk/arles2012/Controllers/TestController.m
+END
+DetailAgendaDayViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/arlesrencontres/!svn/ver/151/trunk/arles2012/Controllers/DetailAgendaDayViewController.xib
+END
+DetailAgendaDayViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/arlesrencontres/!svn/ver/147/trunk/arles2012/Controllers/DetailAgendaDayViewController.h
+END
+DetailLieuxViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/arlesrencontres/!svn/ver/142/trunk/arles2012/Controllers/DetailLieuxViewController.xib
+END
+DetailAgendaDayViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/arlesrencontres/!svn/ver/147/trunk/arles2012/Controllers/DetailAgendaDayViewController.m
+END
+InfosViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/arlesrencontres/!svn/ver/137/trunk/arles2012/Controllers/InfosViewController.xib
+END
+InfosViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/arlesrencontres/!svn/ver/146/trunk/arles2012/Controllers/InfosViewController.h
+END
+GeolocInfoAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/arlesrencontres/!svn/ver/78/trunk/arles2012/Controllers/GeolocInfoAnnotation.h
+END
+DetailArtistesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/arlesrencontres/!svn/ver/136/trunk/arles2012/Controllers/DetailArtistesViewController.h
+END
+AgendaCustumCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/arlesrencontres/!svn/ver/151/trunk/arles2012/Controllers/AgendaCustumCell.h
+END
+InfosViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/arlesrencontres/!svn/ver/146/trunk/arles2012/Controllers/InfosViewController.m
+END
+GeolocInfoAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/arlesrencontres/!svn/ver/78/trunk/arles2012/Controllers/GeolocInfoAnnotation.m
+END
+DetailArtistesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/arlesrencontres/!svn/ver/146/trunk/arles2012/Controllers/DetailArtistesViewController.m
+END
+AgendaCustumCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/arlesrencontres/!svn/ver/151/trunk/arles2012/Controllers/AgendaCustumCell.m
+END
+DetailAgendaViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/arlesrencontres/!svn/ver/151/trunk/arles2012/Controllers/DetailAgendaViewController.xib
+END
+DetailInfosViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/arlesrencontres/!svn/ver/146/trunk/arles2012/Controllers/DetailInfosViewController.h
+END
+DetailAgendaViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/arlesrencontres/!svn/ver/151/trunk/arles2012/Controllers/DetailAgendaViewController.h
+END
+GeolocViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/arlesrencontres/!svn/ver/25/trunk/arles2012/Controllers/GeolocViewController.xib
+END
+DetailInfosViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/arlesrencontres/!svn/ver/146/trunk/arles2012/Controllers/DetailInfosViewController.m
+END
+TestDetailController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/arlesrencontres/!svn/ver/28/trunk/arles2012/Controllers/TestDetailController.h
+END
+DetailAgendaViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/arlesrencontres/!svn/ver/151/trunk/arles2012/Controllers/DetailAgendaViewController.m
+END
+GeolocViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/arlesrencontres/!svn/ver/149/trunk/arles2012/Controllers/GeolocViewController.h
+END
+InfosCustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/arlesrencontres/!svn/ver/137/trunk/arles2012/Controllers/InfosCustomCell.h
+END
+BilletViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/arlesrencontres/!svn/ver/69/trunk/arles2012/Controllers/BilletViewController.h
+END
+DetailExposViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/arlesrencontres/!svn/ver/145/trunk/arles2012/Controllers/DetailExposViewController.xib
+END
+TestDetailController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/arlesrencontres/!svn/ver/83/trunk/arles2012/Controllers/TestDetailController.m
+END
+GeolocViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/arlesrencontres/!svn/ver/149/trunk/arles2012/Controllers/GeolocViewController.m
+END
+AgendaConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/arlesrencontres/!svn/ver/141/trunk/arles2012/Controllers/AgendaConstants.h
+END
+InfosCustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/arlesrencontres/!svn/ver/140/trunk/arles2012/Controllers/InfosCustomCell.m
+END
+AgendaViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/arlesrencontres/!svn/ver/147/trunk/arles2012/Controllers/AgendaViewController.h
+END
+GeolocOfficeAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/arlesrencontres/!svn/ver/78/trunk/arles2012/Controllers/GeolocOfficeAnnotation.h
+END
+BilletViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/arlesrencontres/!svn/ver/103/trunk/arles2012/Controllers/BilletViewController.m
+END
+AgendaCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/arlesrencontres/!svn/ver/147/trunk/arles2012/Controllers/AgendaCell.h
+END
+LieuxViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/arlesrencontres/!svn/ver/137/trunk/arles2012/Controllers/LieuxViewController.xib
+END
+AgendaConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/arlesrencontres/!svn/ver/121/trunk/arles2012/Controllers/AgendaConstants.m
+END
+AgendaViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/arlesrencontres/!svn/ver/147/trunk/arles2012/Controllers/AgendaViewController.m
+END
+AgendaCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/arlesrencontres/!svn/ver/147/trunk/arles2012/Controllers/AgendaCell.m
+END
+GeolocOfficeAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/arlesrencontres/!svn/ver/78/trunk/arles2012/Controllers/GeolocOfficeAnnotation.m
+END
+LieuxViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/arlesrencontres/!svn/ver/124/trunk/arles2012/Controllers/LieuxViewController.h
+END
